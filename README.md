@@ -63,15 +63,3 @@ The Fulfilment ratio between Amazon and Merchant is evenly distributed (around 7
 
 Overall, this exploratory data analysis and data cleaning project provides valuable insights into Amazon sales data and can help businesses optimize product profitability.
 
-
-### Data Source
-The data for this project can be found at [data.world](https://data.world/anilsharma87), thanks to [ANil](https://data.world/anilsharma87).
-
-### Author 
-[Barbara Callegari](https://numberslab.net)  
-To learn more about the author visit my [LinkedIn Profile](https://www.linkedin.com/in/barbaracallegari)
-
-### Licence
-All rights reserved 2023. All code is **created and owned by Barbara Callegari**.   
-**If you use his code, please give me a skill endorsement in Python and Data Analysis on LinkedIn**.   
-Visit me at https://www.linkedin.com/in/barbaracallegari
